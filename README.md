@@ -10,7 +10,7 @@ This is the repo for my band's website Out Of Context, we are a Hard Rock/Metal 
 
 The site is going to use the following;
 
-#### React/Gatsby, Javascript, WordPress, Jest, Enzyme, Axios, Framer Motion, GraphQL, CSS and HTML 
+#### React/Gatsby, Javascript, React Bootstrap, WordPress, Jest, Enzyme, Axios, Framer Motion, GraphQL, CSS and HTML 
 
 ## 🚀 Quick start
 
