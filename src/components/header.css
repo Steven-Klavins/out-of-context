@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "mainFont";
+  src: url(../fonts/main.ttf);
+}
+
+.header-logo {
+  padding-right: 30px;
+}
+
+.bg-dark {
+  background-color: #333333 !important;
+}
+
+a.navbar-brand {
+  font-family: mainFont;
+  font-size: 3rem;
+  color: #ffffff !important;
+}
+
+@import "~bootstrap/dist/css/bootstrap.css";
