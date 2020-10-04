@@ -16,5 +16,13 @@ a.navbar-brand {
   font-size: 3rem;
   color: #ffffff !important;
 }
+.nav-link {
+  width: 100% !important;
+  color: #ffffff !important;
+  justify-content: space-around !important;
+}
 
+.navbar-nav {
+  margin: 0 auto !important;
+}
 @import "~bootstrap/dist/css/bootstrap.css";
